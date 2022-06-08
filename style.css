@@ -38,7 +38,8 @@ p{
     background-repeat: no-repeat;
 }
 section{
-    height: 620px;
+    height: 500px;
+    padding-bottom: 150px;
 }
 .dream-area{
     background-image: url("images/dream-bg.png");
@@ -56,7 +57,7 @@ section{
 .Experience-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
-    background-position: 0% 40%;
+    background-position: 0% 35%;
 }
 #web-design{
     border-left: 7px solid;
